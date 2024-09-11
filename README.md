@@ -1,3 +1,3 @@
 # effective-journey
 ## Cows on the farm
-Gwen and Graceful hate plowing :(
+Gwen and Graceful _hate_ plowing :(
