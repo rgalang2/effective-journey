@@ -1,3 +1,3 @@
 # effective-journey
-##Cows
+## Cows
 Gwen and Graceful hate plowing :(
